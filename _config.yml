@@ -3,14 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: Bavarian Database Day 2025 # the website title (if blank, full name will be used instead)
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The first Bavarian Database Day 2025 is a conference that invites top-class database researchers and practitioners to present their latest research results and applications in the field of databases. The conference will take place in Nuremberg, Germany, on October 30th, 2025.
 footer_text: 
 keywords: conference, databases, research, bavaria # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://alshedivat.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root

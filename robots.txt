@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://utndatasystems.github.iobdbd-2025-website/sitemap.xml

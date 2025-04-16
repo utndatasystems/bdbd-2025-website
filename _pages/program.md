@@ -21,7 +21,7 @@ October 30, 2025 in Nuremberg, Germany.
 
 <div>
 <table class="table" id="standings" style="border-collapse:collapse">
-<tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
+<tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black; color: #000000">
         <th style="width: 20%">Time (CET)</th>
         <th style="width: 18%">Type</th>
         <th style="width: 62%">Title & Speakers</th>

@@ -20,8 +20,10 @@ announcements:
 
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/nuremberg.jpg" class="img-fluid rounded z-depth-1" %}
+
 Welcome to the first edition of the **Bavarian Database Day** to be held on October 30, 2025, in Nuremberg, Bavaria.
 
-The Bavarian Database Day (BDBD) is a yearly one-day workshop similar to the [Dutch Belgian Database Day (DBDBD)](https://cwida.github.io/dbdbd2024/) and the [North East Database Day](https://nedbday.github.io/2025/) with participants from the research community and database industry mainly from Bavaria, Germany.
+The Bavarian Database Day (BDBD) is a yearly one-day workshop where participants from the research community and database industry from Bavaria come together to present their research, discuss future directions, and connect with each other.
 
-<img style="margin: auto; display: block;" src="assets/img/BDBD-Save-the-date.png" width="50%">
+

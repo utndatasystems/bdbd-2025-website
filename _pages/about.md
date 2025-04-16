@@ -20,7 +20,7 @@ announcements:
 
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/nuremberg.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/nuremberg.jpg" caption="©AdobeStock" class="img-fluid rounded z-depth-1" %}
 
 Welcome to the first edition of the **Bavarian Database Day** to be held on October 30, 2025, in Nuremberg, Bavaria.
 

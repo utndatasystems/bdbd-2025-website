@@ -23,7 +23,7 @@ Dr.-Luise-Herzberg-Str. 4,
 View location on [Google Maps](https://maps.app.goo.gl/2ZGJN1bHrmLERDas7).
 
 <div class="w-50">
-{% include figure.liquid loading="eager" path="assets/img/cubeone.jpg" caption="Cube One Building" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/cubeone.jpg" caption="Cube One Building ©Stefan Meyer" class="img-fluid rounded z-depth-1" %}
 </div>
 
 ### Transportation

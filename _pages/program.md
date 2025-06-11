@@ -95,3 +95,8 @@ October 30, 2025 in Nuremberg, Germany.
     <td></td>
     <td>Get Together & Poster Session</td>
   </tr>
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+    <td>19:30 - 21:00</td>
+    <td></td>
+    <td>Dinner at [Tucher Mautkeller](https://tucher-mautkeller.de/)</td>
+  </tr>

@@ -14,6 +14,10 @@ October 30, 2025 in Nuremberg, Germany.
 
 Add the event to your [Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGdwNDg1Zmk0ZzM5cTdqYmdqb3R2aXN1aHUgNzU4NTgwZmE0YTBhMzhiMTZmMjBmMWM5OGYzMTM1Yzc1ZTBkMTM0NWQ2ODczOGI4ZjJiZTFhODYxZDMwYzdhZUBn&tmsrc=758580fa4a0a38b16f20f1c98f3135c75e0d1345d68738b8f2be1a861d30c7ae%40group.calendar.google.com).
 
+### Sign-Up
+Sign up via <todo>. The registration fee is 50€.
+
+
 ### Venue
 Cube One at University of Technology Nuremberg.
 

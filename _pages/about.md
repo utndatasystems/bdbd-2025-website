@@ -27,3 +27,8 @@ Welcome to the first edition of the **Bavarian Database Day** to be held on Octo
 The Bavarian Database Day (BDBD) is a yearly one-day workshop where participants from the research community and database industry come together to present their research, discuss future directions, and connect with each other.
 
 
+## Sponsors
+A special thanks goes to this year's sponsors, without whom this event would not be possible:
+<div class="mx-auto d-block col-sm-6 my-5">
+{% include figure.liquid loading="eager" path="assets/img/Dt_Logo_Color-Horizontal.svg" alt="Dynatrace" class="img-fluid" %}
+</div>

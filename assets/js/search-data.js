@@ -7,21 +7,21 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/bdbd-2025-website/";
+      window.location.href = "/";
     },
   },{id: "nav-program",
           title: "Program",
           description: "Program overview of the Bavarian Database Day 2025.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/bdbd-2025-website/program/";
+            window.location.href = "/program/";
           },
         },{id: "nav-participation",
           title: "Participation",
           description: "Information on how to smoothly and successfully participate at the Bavarian Database Day 2025 in Nuremberg.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/bdbd-2025-website/participation/";
+            window.location.href = "/participation/";
           },
         },{id: "news-website-went-live",
           title: 'Website went live.',

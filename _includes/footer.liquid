@@ -2,8 +2,7 @@
   <div class="d-flex flex-column flex-md-row align-items-center justify-content-center gap-2 text-center text-md-start">
     <!-- Text -->
     <div class="footer-text lh-sm">
-      &copy; Copyright {{ site.time | date: '%Y' }}
-      {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+      &copy; Copyright {{ site.time | date: '%Y' }}. {{ site.footer_text }}
       {% if site.impressum_path %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
       {% endif %}

@@ -30,10 +30,14 @@ The Bavarian Database Day (BDBD) is a yearly one-day workshop where participants
 ## Sponsors
 A special thanks goes to this year's sponsors, without whom this event would not be possible:
 <div class="mx-auto d-block col-sm-6 my-5">
+<a href="https://www.dynatrace.com/">
 {% include figure.liquid loading="eager" path="assets/img/Dt_Logo_Color-Horizontal.svg" alt="Dynatrace" class="img-fluid" %}
+</a>
 </div>
 
 ## Supporters
 <div class="mx-auto d-block col-sm-6 my-5">
-{% include figure.liquid loading="eager" path="assets/img/tumuchdata.svg" alt="TUMuchData" class="img-fluid" %}
+<a href="http://tumuchdata.club/">
+{% include figure.liquid loading="eager" path="assets/img/tumuchdata.png" alt="TUMuchData" class="img-fluid" %}
+</a>
 </div>

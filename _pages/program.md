@@ -8,14 +8,17 @@ nav_order: 2
 ---
 
 
-October 30, 2025 in Nuremberg, Germany.
+**Date:** October 30, 2025 in Nuremberg, Germany.
 
-**Venue:** CubeOne at University of Technology Nuremberg [[Google Maps](https://maps.app.goo.gl/2ZGJN1bHrmLERDas7)]
+**Venue:** Cube One at University of Technology Nuremberg [[Google Maps](https://maps.app.goo.gl/2ZGJN1bHrmLERDas7)]
 
 **Organizers:**
- - [Marcus Paradies](https://www.dbs.ifi.lmu.de/cms/personen/professoren/paradies/index.html), LMU, marcus.paradies@lmu.de
- - [Andreas Kipf](https://www.utn.de/person/prof-dr-andreas-kipf/), UTN, andreas.kipf@utn.de
+ - [Marcus Paradies](https://www.dbs.ifi.lmu.de/cms/personen/professoren/paradies/index.html), LMU, mar<span style="display:none;">HIDDEN JUNK</span>cus.paradies@<span style="display:none;">HIDDEN JUNK</span>lmu.de
+ - [Andreas Kipf](https://www.utn.de/person/prof-dr-andreas-kipf/), UTN, andreas.<span style="display:none;">HIDDEN JUNK</span>kipf@<span style="display:none;">HIDDEN JUNK</span>utn.de
 
+
+**Helpers:**
+ - [Andreas Zimmerer](https://andi-zimmerer.com/), UTN, andreas.z<span style="display:none;">HIDDEN JUNK</span>immerer<span style="display:none;">HIDDEN JUNK</span>@u<span style="display:none;">HIDDEN JUNK</span>tn.de
 
 <br>
 
@@ -36,12 +39,12 @@ October 30, 2025 in Nuremberg, Germany.
     <td>9:05 - 10:00</td>
     <td>Keynote</td>
     <td>
-    Invited Keynote by TBD<i> (TBD)</i></td>
+    Invited Keynote by <a href="https://homepages.cwi.nl/~boncz/">Peter Boncz</a><i> (CWI & MotherDuck)</i></td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>10:00 - 10:30</td>
     <td></td>
-    <td>Coffee Break</td>
+    <td>Coffee & Posters</td>
   </tr>
   <tr class="header">
     <td>10:30 - 12:00</td>
@@ -65,7 +68,7 @@ October 30, 2025 in Nuremberg, Germany.
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>14:30 - 15:00</td>
     <td></td>
-    <td>Coffee Break</td>
+    <td>Coffee & Posters</td>
   </tr>
   <tr class="header">
     <td>15:00 - 16:30</td>
@@ -77,7 +80,7 @@ October 30, 2025 in Nuremberg, Germany.
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>16:30 - 17:00</td>
     <td></td>
-    <td>Coffee Break</td>
+    <td>Coffee & Posters</td>
   </tr>
   <tr class="header">
     <td>17:00 - 17:55</td>
@@ -91,12 +94,7 @@ October 30, 2025 in Nuremberg, Germany.
     <td>Closing</td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>18:00 - 19:30</td>
+    <td>18:30 - 21:00</td>
     <td></td>
-    <td>Get Together & Poster Session</td>
-  </tr>
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>19:30 - 21:00</td>
-    <td></td>
-    <td>Dinner at [Tucher Mautkeller](https://tucher-mautkeller.de/)</td>
+    <td>Dinner at <a href="https://tucher-mautkeller.de/">Tucher Mautkeller</a></td>
   </tr>

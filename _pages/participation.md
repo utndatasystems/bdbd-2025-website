@@ -15,8 +15,8 @@ October 30, 2025 in Nuremberg, Germany.
 Add the event to your [Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGdwNDg1Zmk0ZzM5cTdqYmdqb3R2aXN1aHUgNzU4NTgwZmE0YTBhMzhiMTZmMjBmMWM5OGYzMTM1Yzc1ZTBkMTM0NWQ2ODczOGI4ZjJiZTFhODYxZDMwYzdhZUBn&tmsrc=758580fa4a0a38b16f20f1c98f3135c75e0d1345d68738b8f2be1a861d30c7ae%40group.calendar.google.com).
 
 ### Sign-Up
-Sign up via <todo>. The registration fee is 50€.
-
+Each accepted abstract will receive a registration link.
+The registration fee is 50€.
 
 ### Venue
 Cube One at University of Technology Nuremberg.
@@ -37,10 +37,8 @@ From the central station, you can take the U1 towards "Langwasser Süd" (south) 
 There is also a Park+Ride parking area at U-Bahn station "Bauernfeindstraße".
 
 ### Wi-Fi
-`eduroam` will be available at Cube One.
 
-### Registration
-TBD
+There will be `eduroam` available in the venue as well as `BayernWLAN`.
 
 ### History & Local Attractions
 Nuremberg has a rich cultural history. As one of the most important cities in the late Middle Ages where the imperial regalia (the imperial crown, the imperial cross, the holy lance, ...) of the Holy Roman Empire were kept, the city's most prominent landmark is the [Kaiserburg](https://maps.app.goo.gl/YeA2ZbKxPtgBHYDr6), located near the city center. It's also possible to take tours along the old city walls and go underground through secret passages and tunnels.

@@ -32,3 +32,8 @@ A special thanks goes to this year's sponsors, without whom this event would not
 <div class="mx-auto d-block col-sm-6 my-5">
 {% include figure.liquid loading="eager" path="assets/img/Dt_Logo_Color-Horizontal.svg" alt="Dynatrace" class="img-fluid" %}
 </div>
+
+## Supporters
+<div class="mx-auto d-block col-sm-6 my-5">
+{% include figure.liquid loading="eager" path="assets/img/tumuchdata.svg" alt="TUMuchData" class="img-fluid" %}
+</div>

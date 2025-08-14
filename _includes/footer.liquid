@@ -1,28 +1,40 @@
 {% capture footer_contents %}
-  &copy; Copyright {{ site.time | date: '%Y' }}
-  {{ site.first_name }}
-  {{ site.middle_name }}
-  {{ site.last_name }}. {{ site.footer_text }}
-  {% if site.impressum_path %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-  {% endif %}
-  {% if site.last_updated %}
-    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
-  {% endif %}
+  <div class="d-flex flex-column flex-md-row align-items-center justify-content-center gap-2 text-center text-md-start">
+    <!-- Text -->
+    <div class="footer-text lh-sm">
+      &copy; Copyright {{ site.time | date: '%Y' }}
+      {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+      {% if site.impressum_path %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+      {% endif %}
+      {% if site.last_updated %}
+        Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+      {% endif %}
+    </div>
+
+    <!-- Logos -->
+    <div class="d-inline-flex align-items-center gap-3 ms-md-4 text-nowrap px-4">
+      <img src="{{ '/assets/img/utn.png' | relative_url }}"
+           alt="University of Technology Nuremberg"
+           class="footer-logo" style="height: 1.5rem" loading="eager">
+      <img src="{{ '/assets/img/lmu.png' | relative_url }}"
+           alt="Ludwig-Maximilians-Universität"
+           class="footer-logo" style="height: 2rem" loading="eager">
+    </div>
+  </div>
 {% endcapture %}
 
 {% if site.footer_fixed %}
-  <footer class="fixed-bottom" role="contentinfo">
-    <div class="container mt-0">
+  <footer class="fixed-bottom border-top" role="contentinfo">
+    <div class="container mt-0 py-2">
       {{ footer_contents }}
     </div>
   </footer>
 {% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
+  <footer class="sticky-bottom mt-5 border-top" role="contentinfo">
     {% if site.newsletter.enabled %}
       {% include newsletter.liquid %}
     {% endif %}
-
     <div class="container">
       {{ footer_contents }}
     </div>

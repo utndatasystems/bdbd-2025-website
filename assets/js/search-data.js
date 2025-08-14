@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-program",
+  },{id: "nav-call-for-abstracts",
+          title: "Call for Abstracts",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/call-for-abstracts/";
+          },
+        },{id: "nav-program",
           title: "Program",
           description: "Program overview of the Bavarian Database Day 2025.",
           section: "Navigation",

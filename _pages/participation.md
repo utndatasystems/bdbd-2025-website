@@ -2,7 +2,6 @@
 layout: page
 permalink: /participation/
 title: Participation
-description: Information on how to smoothly and successfully participate at the Bavarian Database Day 2025 in Nuremberg.
 nav: true
 nav_order: 3
 ---
@@ -14,15 +13,16 @@ October 30, 2025 in Nuremberg, Germany.
 
 Add the event to your [Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGdwNDg1Zmk0ZzM5cTdqYmdqb3R2aXN1aHUgNzU4NTgwZmE0YTBhMzhiMTZmMjBmMWM5OGYzMTM1Yzc1ZTBkMTM0NWQ2ODczOGI4ZjJiZTFhODYxZDMwYzdhZUBn&tmsrc=758580fa4a0a38b16f20f1c98f3135c75e0d1345d68738b8f2be1a861d30c7ae%40group.calendar.google.com).
 
-### Sign-Up
-Each accepted abstract will receive a registration link.
+### Registration
+Authors of accepted abstracts will receive a registration link.
+
 The registration fee is 50€.
 
 ### Venue
-Cube One at University of Technology Nuremberg.
+Cube One, University of Technology Nuremberg.
 
-Dr.-Luise-Herzberg-Str. 4,  
-90461 Nürnberg
+Dr.-Luise-Herzberg-Str. 4<br>
+90461 Nuremberg
 
 View location on [Google Maps](https://maps.app.goo.gl/2ZGJN1bHrmLERDas7).
 
@@ -32,20 +32,18 @@ View location on [Google Maps](https://maps.app.goo.gl/2ZGJN1bHrmLERDas7).
 
 ### Transportation
 Nuremberg is perfectly reachable by train.
-From the central station, you can take the U1 towards "Langwasser Süd" (south) and get off after 5mins at "Bauernfeindstraße". From there, walk around 400m to the north-west.
+From the central station, take the U1 towards "Langwasser Süd" and get off at "Bauernfeindstraße" after about five minutes. From there, walk around 400 meters to the northwest.
 
-There is also a Park+Ride parking area at U-Bahn station "Bauernfeindstraße".
+There is also a [Park & Ride area](https://maps.app.goo.gl/nBnvVtRxNEx3Nqw66) at the "Bauernfeindstraße" U-Bahn station.
 
 ### Wi-Fi
 
-There will be `eduroam` available in the venue as well as `BayernWLAN`.
+The venue will offer both `eduroam` and `BayernWLAN`.
 
 ### History & Local Attractions
-Nuremberg has a rich cultural history. As one of the most important cities in the late Middle Ages where the imperial regalia (the imperial crown, the imperial cross, the holy lance, ...) of the Holy Roman Empire were kept, the city's most prominent landmark is the [Kaiserburg](https://maps.app.goo.gl/YeA2ZbKxPtgBHYDr6), located near the city center. It's also possible to take tours along the old city walls and go underground through secret passages and tunnels.
+Nuremberg has a rich cultural history. As one of the most important cities in the late Middle Ages where the imperial regalia (the imperial crown, the imperial cross, the holy lance, ...) of the Holy Roman Empire were kept, the city's most prominent landmark is the [Kaiserburg](https://maps.app.goo.gl/YeA2ZbKxPtgBHYDr6), located near the city center. It is also possible to take tours along the old city walls and go underground through secret passages and tunnels.
 
 ### Accommodation
-We recommend the [Cloud One](https://www.the-cloud-one.com/de/hotels/nuernberg/hotel-nuernberg/) hotel.
-It is close to the central train station and therefore also the U1.
+We recommend the [Cloud One](https://www.the-cloud-one.com/de/hotels/nuernberg/hotel-nuernberg/) hotel, which is conveniently located near the central train station and [Tucher Mautkeller](https://tucher-mautkeller.de/), where we will be having dinner.
 
-Please book your accomodation well in advance because there is a congress happening at the same time.
-Because of that, we managed to secure a guaranteed number of available rooms for 139€ per night.
+Please book your accommodation well in advance, as a congress will be taking place at the same time. To ensure availability, we have secured a limited number of rooms at a guaranteed rate of €139 per night. You will receive the booking details after you have registered for the workshop.

@@ -2,19 +2,15 @@
 layout: page
 permalink: /program/
 title: Program
-description: Program overview of the Bavarian Database Day 2025.
 nav: true
 nav_order: 2
 ---
 
 
-**Date:** October 30, 2025 in Nuremberg, Germany.
-
-**Venue:** Cube One at University of Technology Nuremberg [[Google Maps](https://maps.app.goo.gl/2ZGJN1bHrmLERDas7)]
 
 **Organizers:**
+ - [Andreas Kipf](https://utndatasystems.github.io/), UTN, andreas.<span style="display:none;">HIDDEN JUNK</span>kipf@<span style="display:none;">HIDDEN JUNK</span>utn.de
  - [Marcus Paradies](https://www.dbs.ifi.lmu.de/cms/personen/professoren/paradies/index.html), LMU, mar<span style="display:none;">HIDDEN JUNK</span>cus.paradies@<span style="display:none;">HIDDEN JUNK</span>lmu.de
- - [Andreas Kipf](https://www.utn.de/person/prof-dr-andreas-kipf/), UTN, andreas.<span style="display:none;">HIDDEN JUNK</span>kipf@<span style="display:none;">HIDDEN JUNK</span>utn.de
 
 
 **Helpers:**
@@ -25,7 +21,7 @@ nav_order: 2
 <div>
 <table class="table" id="standings" style="border-collapse:collapse;">
 <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
-        <th style="width: 20%">Time (CET)</th>
+        <th style="width: 20%">Time</th>
         <th style="width: 18%">Type</th>
         <th style="width: 62%">Title & Speakers</th>
       </tr>
@@ -39,7 +35,7 @@ nav_order: 2
     <td>9:05 - 10:00</td>
     <td>Keynote</td>
     <td>
-    Invited Keynote by <a href="https://homepages.cwi.nl/~boncz/">Peter Boncz</a><i> (CWI & MotherDuck)</i></td>
+    Invited Keynote by <a href="https://homepages.cwi.nl/~boncz/">Peter Boncz</a><i> (CWI)</i></td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>10:00 - 10:30</td>
@@ -91,7 +87,7 @@ nav_order: 2
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>17:55 - 18:00</td>
     <td></td>
-    <td>Closing</td>
+    <td>Closing Remarks</td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>18:30 - 21:00</td>

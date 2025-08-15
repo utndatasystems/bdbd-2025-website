@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Website went live.
+Our website is now live.

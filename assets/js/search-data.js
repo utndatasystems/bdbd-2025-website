@@ -18,19 +18,22 @@ ninja.data = [{
           },
         },{id: "nav-program",
           title: "Program",
-          description: "Program overview of the Bavarian Database Day 2025.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/program/";
           },
         },{id: "nav-participation",
           title: "Participation",
-          description: "Information on how to smoothly and successfully participate at the Bavarian Database Day 2025 in Nuremberg.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/participation/";
           },
-        },{id: "news-website-went-live",
-          title: 'Website went live.',
+        },{id: "news-our-website-is-now-live",
+          title: 'Our website is now live.',
+          description: "",
+          section: "News",},{id: "news-we-are-excited-to-announce-that-peter-boncz-cwi-will-deliver-the-opening-keynote",
+          title: 'We are excited to announce that Peter Boncz (CWI) will deliver the opening...',
           description: "",
           section: "News",},];

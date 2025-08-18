@@ -29,6 +29,13 @@ The Bavarian Database Day (BDBD) is an annual one-day workshop bringing together
 
 ## Sponsors
 A special thanks goes to this year's sponsors, without whom this event would not be possible:
+
+<div class="mx-auto d-block col-sm-5 my-5">
+<a href="https://cedardb.com/">
+{% include figure.liquid loading="eager" path="assets/img/cedardb.svg" alt="CedarDB" class="img-fluid" %}
+</a>
+</div>
+
 <div class="mx-auto d-block col-sm-6 my-5">
 <a href="https://www.dynatrace.com/">
 {% include figure.liquid loading="eager" path="assets/img/Dt_Logo_Color-Horizontal.svg" alt="Dynatrace" class="img-fluid" %}

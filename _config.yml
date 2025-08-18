@@ -5,7 +5,7 @@
 title: Bavarian Database Day 2025 # the website title (if blank, full name will be used instead)
 contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The first Bavarian Database Day 2025 is a conference that invites top-class database researchers and practitioners to present their latest research results and applications in the field of databases. The conference will take place in Nuremberg, Germany, on October 30th, 2025.
+  The Bavarian Database Day (BDBD) is an annual one-day workshop bringing together researchers and industry professionals from the database community to present cutting-edge work, discuss future directions, and connect with each other. The workshop will take place on October 30, 2025, in Nuremberg, Bavaria.
 footer_text: Created by <a href="https://andi-zimmerer.com">Andi Zimmerer</a>.
 keywords: conference, databases, research, bavaria # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

@@ -15,6 +15,9 @@ nav_order: 2
 
 **Helpers:**
  - [Andreas Zimmerer](https://andi-zimmerer.com/), UTN, andreas.z<span style="display:none;">HIDDEN JUNK</span>immerer<span style="display:none;">HIDDEN JUNK</span>@u<span style="display:none;">HIDDEN JUNK</span>tn.de
+ - [Varun Pandey](https://www.linkedin.com/in/varpande/), UTN
+ - Andrea Smith, UTN
+ - Corinna Dannewitz, UTN
 
 <br>
 

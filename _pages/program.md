@@ -13,11 +13,13 @@ nav_order: 2
  - [Marcus Paradies](https://www.dbs.ifi.lmu.de/cms/personen/professoren/paradies/index.html), LMU, mar<span style="display:none;">HIDDEN JUNK</span>cus.paradies@<span style="display:none;">HIDDEN JUNK</span>lmu.de
 
 
-**Helpers:**
+**Website:**
  - [Andreas Zimmerer](https://andi-zimmerer.com/), UTN, andreas.z<span style="display:none;">HIDDEN JUNK</span>immerer<span style="display:none;">HIDDEN JUNK</span>@u<span style="display:none;">HIDDEN JUNK</span>tn.de
- - [Varun Pandey](https://www.linkedin.com/in/varpande/), UTN
- - Andrea Smith, UTN
- - Corinna Dannewitz, UTN
+ 
+ **Local Arrangements:**
+ - [Andrea Smith](https://www.linkedin.com/in/andrea-smith-b93a79ba/), UTN, andrea.s<span style="display:none;">HIDDEN JUNK</span>mith<span style="display:none;">HIDDEN JUNK</span>@u<span style="display:none;">HIDDEN JUNK</span>tn.de
+ - [Corinna Dannewitz](https://www.linkedin.com/in/corinna-dannewitz-b258a731a/), UTN, corinna.d<span style="display:none;">HIDDEN JUNK</span>annewitz<span style="display:none;">HIDDEN JUNK</span>@u<span style="display:none;">HIDDEN JUNK</span>tn.de
+ - [Varun Pandey](https://www.linkedin.com/in/varpande/), UTN, varun.p<span style="display:none;">HIDDEN JUNK</span>andey<span style="display:none;">HIDDEN JUNK</span>@u<span style="display:none;">HIDDEN JUNK</span>tn.de
 
 <br>
 

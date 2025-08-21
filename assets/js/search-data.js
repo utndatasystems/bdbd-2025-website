@@ -36,4 +36,7 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-excited-to-announce-that-peter-boncz-cwi-will-deliver-the-opening-keynote",
           title: 'We are excited to announce that Peter Boncz (CWI) will deliver the opening...',
           description: "",
+          section: "News",},{id: "news-the-call-for-abstracts-is-now-open-we-welcome-submissions-from-researchers-and-practitioners",
+          title: 'The Call for Abstracts is now open. We welcome submissions from researchers and...',
+          description: "",
           section: "News",},];

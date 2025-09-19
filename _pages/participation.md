@@ -44,4 +44,4 @@ The venue will offer both `eduroam` and `BayernWLAN`.
 Nuremberg has a rich cultural history. As one of the most important cities in the late Middle Ages where the imperial regalia (the imperial crown, the imperial cross, the holy lance, ...) of the Holy Roman Empire were kept, the city's most prominent landmark is the [Kaiserburg](https://maps.app.goo.gl/YeA2ZbKxPtgBHYDr6), located near the city center. It is also possible to take tours along the old city walls and go underground through secret passages and tunnels.
 
 ### Accommodation
-Please book your accommodation well in advance, as a congress will be taking place at the same time. To ensure availability, we have secured a limited number of rooms at a guaranteed rate of €139 per night. You will receive the booking details after you have registered for the workshop.
+Please book your accommodation well in advance, as a congress will be taking place at the same time.

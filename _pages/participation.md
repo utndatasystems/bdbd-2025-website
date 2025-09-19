@@ -46,4 +46,4 @@ Nuremberg has a rich cultural history. As one of the most important cities in th
 ### Accommodation
 We recommend the [Cloud One](https://www.the-cloud-one.com/de/hotels/nuernberg/hotel-nuernberg/) hotel, which is conveniently located near the central train station and [Tucher Mautkeller](https://tucher-mautkeller.de/), where we will be having dinner.
 
-Please book your accommodation well in advance, as a congress will be taking place at the same time. To ensure availability. You will receive the booking details after you have registered for the workshop.
+Please book your accommodation well in advance, as a congress will be taking place at the same time.

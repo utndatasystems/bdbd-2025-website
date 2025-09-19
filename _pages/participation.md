@@ -44,4 +44,6 @@ The venue will offer both `eduroam` and `BayernWLAN`.
 Nuremberg has a rich cultural history. As one of the most important cities in the late Middle Ages where the imperial regalia (the imperial crown, the imperial cross, the holy lance, ...) of the Holy Roman Empire were kept, the city's most prominent landmark is the [Kaiserburg](https://maps.app.goo.gl/YeA2ZbKxPtgBHYDr6), located near the city center. It is also possible to take tours along the old city walls and go underground through secret passages and tunnels.
 
 ### Accommodation
-Please book your accommodation well in advance, as a congress will be taking place at the same time.
+We recommend the [Cloud One](https://www.the-cloud-one.com/de/hotels/nuernberg/hotel-nuernberg/) hotel, which is conveniently located near the central train station and [Tucher Mautkeller](https://tucher-mautkeller.de/), where we will be having dinner.
+
+Please book your accommodation well in advance, as a congress will be taking place at the same time. To ensure availability. You will receive the booking details after you have registered for the workshop.

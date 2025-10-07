@@ -28,7 +28,8 @@ The Bavarian Database Day (BDBD) is an annual one-day workshop bringing together
 
 
 ## Sponsors
-A special thanks goes to this year's sponsors, without whom this event would not be possible:
+
+A special thanks goes to this year's sponsors, [CedarDB](https://cedardb.com/) and [Dynatrace](https://www.dynatrace.com/), without whom this event would not be possible:
 
 <div class="mx-auto d-block col-sm-5 my-5">
 <a href="https://cedardb.com/">
@@ -42,8 +43,21 @@ A special thanks goes to this year's sponsors, without whom this event would not
 </a>
 </div>
 
+
+## Dinner Sponsor
+
+We would like to extend our sincere thanks to [Microsoft GSL](https://www.microsoft.com/en-us/research/group/gray-systems-lab/) for generously sponsoring the dinner.
+<div class="mx-auto d-block col-sm-6 my-5 d-flex align-items-center" style="gap: 1rem;">
+  <a href="https://www.microsoft.com/en-us/research/group/gray-systems-lab/" class="d-flex align-items-center" style="box-shadow: none;">
+    {% include figure.liquid loading="eager" path="assets/img/gsl.jpg" alt="Gray Systems Lab" class="img-fluid" %}
+    {% include figure.liquid loading="eager" path="assets/img/microsoft.png" alt="Microsoft" class="img-fluid" %}
+  </a>
+</div>
+
+
 ## Supporters
-<div class="mx-auto d-block col-sm-6 my-5">
+
+<div class="mx-auto d-block col-sm-5 my-5">
 <a href="http://tumuchdata.club/">
 {% include figure.liquid loading="eager" path="assets/img/tumuchdata.png" alt="TUMuchData" class="img-fluid" %}
 </a>

@@ -46,7 +46,7 @@ A special thanks goes to this year's sponsors, [CedarDB](https://cedardb.com/) a
 
 ## Dinner Sponsor
 
-We would like to extend our sincere thanks to [Microsoft GSL](https://www.microsoft.com/en-us/research/group/gray-systems-lab/) for generously sponsoring the dinner.
+We would like to extend our sincere thanks to [Microsoft GSL](https://www.microsoft.com/en-us/research/group/gray-systems-lab/) for generously sponsoring the dinner:
 <div class="mx-auto d-block col-sm-6 my-5 d-flex align-items-center" style="gap: 1rem;">
   <a href="https://www.microsoft.com/en-us/research/group/gray-systems-lab/" class="d-flex align-items-center" style="box-shadow: none;">
     {% include figure.liquid loading="eager" path="assets/img/gsl.jpg" alt="Gray Systems Lab" class="img-fluid" %}

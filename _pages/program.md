@@ -10,7 +10,7 @@ nav_order: 2
 
 **Organizers:**
  - [Andreas Kipf](https://utndatasystems.github.io/), UTN, andreas.<span style="display:none;">HIDDEN JUNK</span>kipf@<span style="display:none;">HIDDEN JUNK</span>utn.de
- - [Marcus Paradies](https://www.dbs.ifi.lmu.de/cms/personen/professoren/paradies/index.html), LMU, mar<span style="display:none;">HIDDEN JUNK</span>cus.paradies@<span style="display:none;">HIDDEN JUNK</span>lmu.de
+ - [Marcus Paradies](https://www.dbs.ifi.lmu.de/cms/personen/professoren/paradies/index.html), LMU, m.paradies@<span style="display:none;">HIDDEN JUNK</span>lmu.de
 
 
 **Website:**
@@ -32,6 +32,11 @@ nav_order: 2
       </tr>
       <tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
+        <td>8:30 - 9:00</td>
+        <td></td>
+        <td>Arrival & Welcome Coffee</td>
+  </tr>
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
         <td>9:00 - 9:05</td>
         <td></td>
         <td>Opening Remarks</td>
@@ -40,18 +45,24 @@ nav_order: 2
     <td>9:05 - 10:00</td>
     <td>Keynote</td>
     <td>
-    Invited Keynote by <a href="https://homepages.cwi.nl/~boncz/">Peter Boncz</a><i> (CWI)</i></td>
+    Invited Keynote by <a href="https://homepages.cwi.nl/~boncz/">Peter Boncz</a> (CWI): <u>Diving into the DuckLake</u></td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>10:00 - 10:30</td>
     <td></td>
-    <td>Coffee & Posters</td>
+    <td>Coffee Break</td>
   </tr>
   <tr class="header">
     <td>10:30 - 12:00</td>
     <td>Presentations</td>
-    <td>
-      <b>Session 1</b><br><i>6 presentations</i>
+    <td style="line-height: 1.8;">
+      <b>Session 1: Data Systems</b>
+      
+      <p>Constantin Pestka (LMU): <u>Opportunities of RCU-based Synchronization for Database Indices</u></p>
+      <p>Dimitrios Giouroukis (BIFOLD, TU Berlin): <u>Analyzing Near-Network Hardware Acceleration with Co-Processing on DPUs</u></p>
+      <p>Lorenz Hübschle (Firebolt): <u>Low-Latency Analytics on Apache Iceberg</u></p>
+      <p>Mihail Stoian (University of Technology Nuremberg): <u>Instance-Optimized String Fingerprints</u></p>
+      <p style="margin-bottom: 0;">Ankit Chaudhary (TU Berlin): <u>Optimizing Continuous Queries in the Edge-Cloud Continuum</u></p>
     </td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
@@ -62,32 +73,44 @@ nav_order: 2
   <tr class="header">
     <td>13:00 - 14:30</td>
     <td>Presentations</td>
-    <td>
-      <b>Session 2</b><br><i>6 presentations</i>
+    <td style="line-height: 1.8;">
+      <b>Session 2: Benchmarking</b>
+
+      <p>Tobias Schmidt (Technische Universität München): <u>SQLStorm: Taking Database Benchmarking into the LLM Era</u></p>
+      <p>Jan Vincent Szlan (University of Cambridge, Snowflake): <u>Workload Insights From The Snowflake Data Cloud: What Do Production Analytic Queries Really Look Like?</u></p>
+      <p>Dominik Horn (AWS): <u>Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet</u></p>
+      <p>Luka Leko (JKU/Dynatrace Co-Innovation Lab, LIT CPS Lab): <u>Benchmarking Pattern Matching Strategies for Scalable Log Analytics</u></p>
+      <p style="margin-bottom: 0;">Andreas Zimmerer (University of Technology Nuremberg): <u>Are Semantic Operators Worth It? Benchmarking Databases in the LLM Era</u></p>
     </td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>14:30 - 15:00</td>
     <td></td>
-    <td>Coffee & Posters</td>
+    <td>Coffee Break</td>
   </tr>
   <tr class="header">
     <td>15:00 - 16:30</td>
     <td>Presentations</td>
-    <td>
-      <b>Session 3</b><br><i>6 presentations</i>
+    <td style="line-height: 1.8;">
+      <b>Session 3: DB Languages & Query Optimization</b>
+
+      <p>Wim Martens (University of Bayreuth): <u>Rel: A Programming Language for Relational Data</u></p>
+      <p>Maximilian Schüle (University of Bamberg): <u>Higher-Order SQL Lambda Functions</u></p>
+      <p>Pascal Pfeil (AWS): <u>Engineering Better Baselines: Optimizing Classical Sketching Algorithms</u></p>
+      <p>Christoph Mayer (University of Zurich): <u>Practical Information-Theoretic Cardinality Estimation with Upper Bound Guarantees</u></p>
+      <p style="margin-bottom: 0;">Felix Weiß, Oliver Layer (Celonis): <u>A Query Language and Engine Designed for Process Intelligence</u></p>
     </td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>16:30 - 17:00</td>
     <td></td>
-    <td>Coffee & Posters</td>
+    <td>Coffee Break</td>
   </tr>
   <tr class="header">
     <td>17:00 - 17:55</td>
     <td>Keynote</td>
     <td>
-    Invited Keynote by TBD<i> (TBD)</i></td>
+    Invited Keynote by <a href="https://www.cs.cit.tum.de/cde/people/maribel-acosta/">Maribel Acosta</a> (TUM): <u>Learning to Optimize: ML for Query Processing over Knowledge Graphs</u></td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>17:55 - 18:00</td>

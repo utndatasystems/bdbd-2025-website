@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-heading: <b>Bavarian Database Day</b> 2025
+heading: <b>Bavarian Database Day 2025</b>
 subtitle: Research / Industry Talks & Networking<br>October 30, 2025
 
 profile:

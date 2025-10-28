@@ -39,4 +39,7 @@ ninja.data = [{
           section: "News",},{id: "news-the-call-for-abstracts-is-now-open-we-welcome-submissions-from-researchers-and-practitioners",
           title: 'The Call for Abstracts is now open. We welcome submissions from researchers and...',
           description: "",
+          section: "News",},{id: "news-we-are-happy-to-announce-the-program-and-that-maribel-acosta-tum-will-give-the-closing-keynote",
+          title: 'We are happy to announce the program and that Maribel Acosta (TUM) will...',
+          description: "",
           section: "News",},];

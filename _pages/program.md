@@ -62,7 +62,8 @@ nav_order: 2
       <p>Dimitrios Giouroukis (BIFOLD, TU Berlin): <u>Analyzing Near-Network Hardware Acceleration with Co-Processing on DPUs</u></p>
       <p>Lorenz Hübschle (Firebolt): <u>Low-Latency Analytics on Apache Iceberg</u></p>
       <p>Mihail Stoian (University of Technology Nuremberg): <u>Instance-Optimized String Fingerprints</u></p>
-      <p style="margin-bottom: 0;">Ankit Chaudhary (TU Berlin): <u>Optimizing Continuous Queries in the Edge-Cloud Continuum</u></p>
+      <p>Ankit Chaudhary (TU Berlin): <u>Optimizing Continuous Queries in the Edge-Cloud Continuum</u></p>
+      <p style="margin-bottom: 0;">Kevin Gaffney, Tiemo Bang (Gray Systems Lab, Azure Data, Microsoft): <u>Invent With Purpose: R&D at Azure Data</u></p>
     </td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
@@ -80,7 +81,8 @@ nav_order: 2
       <p>Jan Vincent Szlan (University of Cambridge, Snowflake): <u>Workload Insights From The Snowflake Data Cloud: What Do Production Analytic Queries Really Look Like?</u></p>
       <p>Dominik Horn (AWS): <u>Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet</u></p>
       <p>Luka Leko (JKU/Dynatrace Co-Innovation Lab, LIT CPS Lab): <u>Benchmarking Pattern Matching Strategies for Scalable Log Analytics</u></p>
-      <p style="margin-bottom: 0;">Andreas Zimmerer (University of Technology Nuremberg): <u>Are Semantic Operators Worth It? Benchmarking Databases in the LLM Era</u></p>
+      <p>Andreas Zimmerer (University of Technology Nuremberg): <u>Are Semantic Operators Worth It? Benchmarking Databases in the LLM Era</u></p>
+      <p style="margin-bottom: 0;">Dominik Durner (CedarDB): <u>What It Takes to Bring a Research System Into Production Workloads</u></p>
     </td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
@@ -98,7 +100,8 @@ nav_order: 2
       <p>Maximilian Schüle (University of Bamberg): <u>Higher-Order SQL Lambda Functions</u></p>
       <p>Pascal Pfeil (AWS): <u>Engineering Better Baselines: Optimizing Classical Sketching Algorithms</u></p>
       <p>Christoph Mayer (University of Zurich): <u>Practical Information-Theoretic Cardinality Estimation with Upper Bound Guarantees</u></p>
-      <p style="margin-bottom: 0;">Felix Weiß, Oliver Layer (Celonis): <u>A Query Language and Engine Designed for Process Intelligence</u></p>
+      <p>Felix Weiß, Oliver Layer (Celonis): <u>A Query Language and Engine Designed for Process Intelligence</u></p>
+      <p style="margin-bottom: 0;">Adriano Vogel (Dynatrace): <u>Innovating at Scale: Research at Dynatrace</u></p>
     </td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
